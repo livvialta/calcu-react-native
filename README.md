@@ -1,1 +1,3 @@
-# calcu-react-native
+# Calculator - React Native
+
+Lívia Vialta & Geovane Bandeira
